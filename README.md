@@ -9,7 +9,7 @@ A way for you to understand why I am here and for us to measure success.  This i
 * Find, retain, and encourage really smart developers (that's you).
 * Provide context.
 * Destroy obstacles.
-* Do enough indiviudal contributor work to make me effective at all of the above.
+* Do enough individual contributor work to make me effective at all of the above.
 
 ## Our team
 
@@ -46,6 +46,7 @@ A way for you to understand why I am here and for us to measure success.  This i
 * You feel safe debating with me.  
   * The best ideas are those that have been viewed from multiple angles and been the subject of debate and discussion.  
     * Sometimes, I will play devil's advocate for this purpose alone.
+    * Sometimes, I'm just being dense.
 
 ## Communications
 
@@ -53,7 +54,7 @@ A way for you to understand why I am here and for us to measure success.  This i
 * Emails - I will reply in < 24 hours.
 * Slack - you should expect to get an answer right away.  I will do my best.
 * If it ever feels like we are not communicating, grab me and let's hash it out.
-* I feel very strongly that teams need to overcommunicate their progress.  
+* I feel very strongly that teams need to over-communicate their progress.  
   * Transparency builds trust.
   * We should be open and transparent about our successes and our failures.
   * Typically, this takes the form of a weekly status email going to all stakeholders.  
@@ -72,14 +73,14 @@ A way for you to understand why I am here and for us to measure success.  This i
   * I'm going to make mistakes.  
     * I expect you to tell me when that happens.
       * Yeah, it might be hard, but I'm counting on you.
-  
+
 ## Metrics
 
 * I like to count things.  
   * Story points help us understand our capacity and our velocity.
   * Bug counts tell is if we have a quality problem.
   * Production support tickets tell us where we need to improve the system.
-  * Peformance metrics ensure our products work the way we need them to.
+  * Performance metrics ensure our products work the way we need them to.
   * Monitoring ensures we aren't the last to learn about a problem.
 * I don't want to be ruled by metrics, but they let us stay on top of the chaos.
 * If our metrics ever seem to be driving the wrong behavior, we need to stop and talk about it.  See [Feedback](Feedback)
