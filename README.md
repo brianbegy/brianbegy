@@ -20,7 +20,7 @@ A way for you to understand why I am here and for us to measure success.  This i
   * To our stakeholders, we are big damn heroes.
 * We take control of, and responsibility for, our own destiny.
   * We identify challenges and opportunities and come up with solutions.
-  * If something is beyond our control, we look for get it under our control or get help.
+  * If something is beyond our control, we look for ways to get it under our control or get help.
 * We help each other.
 * We hold each other accountable.
 * We can expect excellence in ourselves and each other.
