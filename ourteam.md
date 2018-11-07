@@ -21,6 +21,9 @@
 - We respect our team members by being available, being on time, and giving people time to adjust. 
     - We try to give warning when we won't be in.
     - Life happens: people get sick, child care falls through, furnaces give out, so we are flexible.
+      - But we need to give our team members warning. 
+      - If we will take a day, we give notice as soon as we know.
+        - We announce it and put it on the vacation calendar.
     - When one person is remote for a team meeting, everybody is remote for that meeting.
 - When we do get sick...
     - We take care of ourselves by resting when we cannot or should not work.
