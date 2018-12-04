@@ -17,7 +17,7 @@
 - We try to work from the office as much as we can.
 - Nobody (goes dark)[https://blog.codinghorror.com/dont-go-dark/] for an extended period.
 - Sometimes, working from home is great.
-- Our core office hours are 10-4.
+- Our core office hours are 10:30-4.
 - We respect our team members by being available, being on time, and giving people time to adjust. 
     - We try to give warning when we won't be in.
     - Life happens: people get sick, child care falls through, furnaces give out, so we are flexible.
