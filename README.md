@@ -83,7 +83,7 @@ A way for you to understand why I am here and for us to measure success.  This i
   * Performance metrics ensure our products work the way we need them to.
   * Monitoring ensures we aren't the last to learn about a problem.
 * I don't want to be ruled by metrics, but they let us stay on top of the chaos.
-* If our metrics ever seem to be driving the wrong behavior, we need to stop and talk about it.  See [Feedback](Feedback)
+* If our metrics ever seem to be driving the wrong behavior, we need to stop and talk about it.  See [Feedback](##Feedback)
 
 ## Meetings
 
