@@ -12,23 +12,7 @@ A way for you to understand why I am here and for us to measure success.  This i
 * Do enough individual contributor work to make me effective at all of the above.
 
 ## Our team
-
-### My ideal vision of our team is one where
-
-* We are all contributing at a high level.  
-  * We deliver features that bring joy to our customers or at least remove sources of pain and frustration.
-  * To our stakeholders, we are big damn heroes.
-* We take control of, and responsibility for, our own destiny.
-  * We identify challenges and opportunities and come up with solutions.
-  * If something is beyond our control, we look for ways to get it under our control or get help.
-* We help each other.
-* We hold each other accountable.
-* We can expect excellence in ourselves and each other.
-* We assume positive intent.
-* We always ask "why?" and especially "Why can't we just make it be better?"
-* We constantly learn and adapt.
-  * If something isn't working, we change it.
-* All of this is both fun and sustainable.
+[Our team](ourteam.md)
 
 ## My assumptions
 

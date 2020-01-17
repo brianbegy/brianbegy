@@ -13,6 +13,22 @@
 - Impact of work
     - Do we fundamentally believe that the work we’re doing matters?
 
+# Vision
+
+* We are all contributing at a high level.  
+  * We deliver features that bring joy to our customers or at least remove sources of pain and frustration.
+  * To our stakeholders, we are big damn heroes.
+* We take control of, and responsibility for, our own destiny.
+  * We identify challenges and opportunities and come up with solutions.
+  * If something is beyond our control, we look for ways to get it under our control or get help.
+* We help each other.
+* We hold each other accountable.
+* We can expect excellence in ourselves and each other.
+* We assume positive intent.
+* We always ask "why?" and especially "Why can't we just make it be better?"
+* We constantly learn and adapt.
+  * If something isn't working, we change it.
+* All of this is both fun and sustainable.
 
 # Attendance 
 ## Principles
@@ -42,9 +58,16 @@
 
 
 # Practices
+## Code
+- We work in the open.
+    - Everybody writes code and commits code every day.
+    - Most people have a PR most days.
+ - Everybody reviews code.
+    - Your input is valuable.
+    - Do not hesitate to review code written by more experienced people.
+
 ## Standup
 
-- We show respect for our team by being on time, especially for stand.
 - We talk about what we have been doing since our last stand.
 - We talk about what we plan to do before our next stand.
 - We talk about blocking issues.
@@ -58,4 +81,3 @@
     - e.g. "Remember, I'm off all next week so if you need me, get me before 3."
 
 ## PRs
-- Code reviewing should be considered a high-priority task.
