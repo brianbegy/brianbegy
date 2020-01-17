@@ -79,5 +79,3 @@
     - Do we need to find additional work?
 - We talk about any issues of common interest.
     - e.g. "Remember, I'm off all next week so if you need me, get me before 3."
-
-## PRs
