@@ -12,36 +12,17 @@ A way for you to understand why I am here and for us to measure success.  This i
 * Review code and serve as point person for the team.
 
 ## Our team
+
 [Our team](ourteam.md)
 
 ## My assumptions
 
-* You are good at your job
-  * If you weren't you wouldn't be here.
-  * I will still question you.
-    * When I do question you, it is because:  
-      * I'm trying to learn more about what you know and I don't.
-      * I'm trying to be a sounding board and make sure you do your best work.
-* You have more detailed knowledge than I do of what you are doing.  
-  * I have more context than you do. (Context is part of what I do here.)
-* You will tell me if you are having trouble doing your job.
-  * One of my main responsibilities is setting you up for success, not failure.  
-    * You will know before I do if you are not set up for success, so say something.
-* You feel safe debating with me.  
-  * The best ideas are those that have been viewed from multiple angles and been the subject of debate and discussion.  
-    * Sometimes, I will play devil's advocate for this purpose alone.
-    * Sometimes, I'm just being dense.
+[My assumptions about you](team_assumptions.md)
+
 
 ## Communications
 
-* Face to face is best.
-* Emails - I will reply in < 24 hours.
-* Slack - you should expect to get an answer right away.  I will do my best.
-* If it ever feels like we are not communicating, grab me and let's hash it out.
-* I feel very strongly that teams need to over-communicate their progress.  
-  * Transparency builds trust.
-  * We should be open and transparent about our successes and our failures.
-  * Typically, this takes the form of a weekly status email going to all stakeholders.  
+[How we should communicate](communications.md)
 
 ## Feedback
 
@@ -64,10 +45,4 @@ A way for you to understand why I am here and for us to measure success.  This i
 
 ## Meetings
 
-* We can always do a 1/1 meeting without a formal agenda
-* We can always to an informal "help me talk through an idea" without a formal agenda.  (although, in reality the agenda is "Let's talk through caching" or whatever.)
-* Any meeting over 15 minutes needs to have an agenda.  
-  * If I call a meeting > 15 minutes with no agenda, call me out.
-  * If possible, we should have a common set of notes for meetings so we know who agreed to what.
-* Story grooming is important to get everybody on the same page.
-* Retrospectives are important to help us improve.
+[Some rules for meetings](meetings.md)

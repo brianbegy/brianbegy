@@ -33,7 +33,6 @@
 # Attendance 
 ## Principles
 
-- In most cases, face to face is best.
 - We work a reasonable number of hours.
     - We occasionally work overtime during crunch periods.
     - But we understand that extended overtime...
