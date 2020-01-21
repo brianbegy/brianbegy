@@ -65,6 +65,14 @@
     - Your input is valuable.
     - Do not hesitate to review code written by more experienced people.
 
+## Testing
+- We own the quality of our code.
+    - We test our own work *before* anyone else can find our mistakes.
+    - We think about testabliilty as a first-class concern.
+    - We test 100% of the code we think needs testing.  
+    - We test 0% of the code we don't think needs testing.
+    - We can depend on our tests.
+
 ## Standup
 
 - We talk about what we have been doing since our last stand.
