@@ -36,7 +36,7 @@
 - We work a reasonable number of hours.
     - We occasionally work overtime during crunch periods.
     - But we understand that extended overtime...
-        - Reduces job satisfaction.
+        - Makes us unhappy.
         - Actually reduces productivity.
 - We try to work from the office as much as we can.
 - Sometimes, working from home is great.
@@ -64,7 +64,7 @@
  - Everybody reviews code.
     - Your input is valuable.
     - Do not hesitate to review code written by more experienced people.
-
+  
 ## Testing
 - We own the quality of our code.
     - We test our own work *before* anyone else can find our mistakes.
