@@ -19,11 +19,31 @@ Any company that doesn't know how to run an organization without doing "walk aro
 
 ### High transparency and alignment  
 
-The "Netflix deck" stuff.  Leadership needs to lead by setting the tone and context and allow experts to solve the business problems.  Alignment doesn't work without transparency.
+[The "Netflix deck" says it best](https://www.slideshare.net/reed2001/culture-1798664).  
+
+I want leadership that sets the tone and context and allows experts to solve the business problems.  
+
+Alignment doesn't work without transparency.  We work in the open and share our progress.
 
 ### Tech stack: Agnostic
 
-I have a bias against Ruby because I have only seen it done badly.  It is amazing at quickly creating functionality that will build your company while also creating technical debt that will destroy your company.  Some orgs (Shopify) have a reputation for succeeding with Ruby, but the tool remains dangerous.  I have 15 years of experience in .net and I don't really feel I need more.
+#### Typescript/Javascript
+
+I have been using it at Kazoo/WorkTango and it solves some problems well, some problems poorly.  It is the fastest growing web language for a reason.
+
+#### Ruby
+
+I have only seen it done badly.  
+
+It is amazing at quickly creating functionality that will build your company while also creating technical debt that will destroy your company.  
+
+Some orgs (Shopify) have a reputation for succeeding with Ruby, but the tool remains dangerous.  
+
+If an org is using Ruby, they would need to be very, very good at it and very disciplined to succeed.
+
+#### .net
+
+I have 15 years of experience in .net and I don't really feel I need more.
 
 #### Java
 
