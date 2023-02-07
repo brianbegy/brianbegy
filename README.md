@@ -7,3 +7,7 @@ A way for you to understand why I am here and for us to measure success.  This i
 It comes in 2 flavors:
 
 [manager](https://github.com/brianbegy/brianbegy/blob/master/manager.md) and [team lead](https://github.com/brianbegy/brianbegy/blob/master/lead.md) depending on what I'm doing in this job.
+
+## For recuiters and hiring managers
+
+[What I'm looking for in an opportunity](./opportunities.md).
