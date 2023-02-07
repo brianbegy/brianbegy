@@ -25,6 +25,19 @@ I want leadership that sets the tone and context and allows experts to solve the
 
 Alignment doesn't work without transparency.  We work in the open and share our progress.
 
+### Role
+
+#### Senior technologist (staff, architect, team lead, senior at a very flat org)  
+
+This is the best job in tech.  Being hands on coding at least 40% of the time gives one connection with the solutions.  Spending the rest of the time problem solving with stakeholders and aligning developers provides the leverage to solve problems one can't code oneself.  
+
+OR
+
+#### Engineering leadership role (VPE, CTO, Director)
+
+A role with broad influence and responsibility.  Line management is not attractive because it is responsibility without control.
+
+
 ### Tech stack: Agnostic
 
 #### Typescript/Javascript
@@ -56,15 +69,3 @@ I built a number of microservices in it and would definitely go back to it.
 #### Python
 
 I have only used it for trivial scripting work and I would welcome an opportunity to use it to solve real problems.
-
-### Role
-
-#### Senior technologist (staff, architect, team lead, senior at a very flat org)  
-
-This is the best job in tech.  Being hands on coding at least 40% of the time gives one connection with the solutions.  Spending the rest of the time problem solving with stakeholders and aligning developers provides the leverage to solve problems one can't code oneself.  
-
-OR
-
-#### Engineering leadership role (VPE, CTO, Director)
-
-A role with broad influence and responsibility.  Line management is not attractive because it is responsibility without control.
