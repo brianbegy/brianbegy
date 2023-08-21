@@ -13,10 +13,6 @@ I want to make solve problems and build solutions for customers.
 
 Every organization has interesting problems.  Let's find an important one and solve it.
 
-### Remote first company 
-
-Any company that doesn't know how to run an organization without doing "walk around and see if people look busy" is bad at measuring success.
-
 ### High transparency and alignment  
 
 [The "Netflix deck" says it best](https://www.slideshare.net/reed2001/culture-1798664).  
