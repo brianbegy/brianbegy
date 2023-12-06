@@ -38,11 +38,6 @@
     - But we understand that extended overtime...
         - Makes us unhappy.
         - Actually reduces productivity.
-- We try to work from the office as much as we can.
-- Sometimes, working from home is great.
-- Our core office hours are 10-4. 
-    - Some people like 10-6.
-    - Some people like 9-5.
 - We respect our team members by being available, being on time, and giving people time to adjust. 
     - We try to give warning when we won't be in.
     - Life happens: people get sick, child care falls through, furnaces give out, so we are flexible.
@@ -59,7 +54,8 @@
 # Practices
 ## Code
 - We work in the open.
-    - Everybody writes code and commits code every day.
+    - Everybody tries to write code and commit code every day.
+      - Delivery is a muscle.  We exercise it.
     - Most people have a PR most days.
  - Everybody reviews code.
     - Your input is valuable.
