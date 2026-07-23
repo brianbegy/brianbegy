@@ -87,7 +87,8 @@ That means I:
   - Life happens: people get sick, child care falls through, furnaces give out, so we are flexible.
     - But we need to give our team members warning.
     - If we will take a day, we give notice as soon as we know. We announce it and put it on the vacation calendar.
-  - When one person is remote for a team meeting, everybody is remote for that meeting.
+  - Wherever we work from is fine — the bar is being reachable and dependable, not being in a particular chair.
+  - When one person is remote for a team meeting, everybody is remote for that meeting. No in-room majority talking over a laptop in the corner; we keep the playing field level.
 - When we do get sick...
   - We take care of ourselves by resting when we cannot or should not work.
   - We take care of our team by working from home when we are contagious.
@@ -149,7 +150,13 @@ That means I:
 
 ## Communication
 
-- Face to face is best.
+- We bias toward writing things down. User stories, ADRs, problem statements, READMEs, PR descriptions — the durable artifacts that outlive the conversation.
+  - Writing forces the thinking to get clear before we commit to it. If we can't write it down, we don't understand it yet.
+  - It aligns humans: people who weren't in the room, people who join later, people in a different timezone.
+  - It aligns the machines: a written record is the context our models work from. Undocumented decisions are invisible to them, and increasingly to us.
+  - A PR is the ideal home for a lot of this — the change and the reasoning for it, together, reviewable, and permanent.
+- Match the bandwidth to the problem. For anything ambiguous, contentious, or emotional, talk it out live — a call or a huddle beats a wall of text. In person or over video, same principle: the harder the conversation, the higher the bandwidth should be.
+- Whatever we decide live, we write down. A quick recap in the channel or the doc means the decision survives the meeting and reaches whoever wasn't in it.
 - Emails — I will reply in < 24 hours.
 - Slack — you should expect to get an answer right away. I will do my best.
 - If it ever feels like we are not communicating, grab me and let's hash it out.
@@ -219,6 +226,6 @@ I am a strong believer that every developer should engage with the codebase and 
 - Any meeting over 15 minutes needs to have an agenda.
   - If I call a meeting > 15 minutes with no agenda, call me out.
   - If possible, we should have a common set of notes for meetings so we know who agreed to what.
-  - Meetings produce artifacts: notes or even screenshots of whiteboards.
+  - Meetings produce durable artifacts: notes, a shared doc, or a screenshot of whatever we drew — physical or virtual whiteboard.
 - Story grooming is important to get everybody on the same page.
 - Retrospectives are important to help us improve.
