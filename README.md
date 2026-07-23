@@ -133,6 +133,9 @@ That means I:
 - Our job is shifting from producing code to directing, reviewing, and judging it.
     - Taste and judgment are the scarce resources now, not typing speed.
     - "The model wrote it" is never an excuse for shipping something we don't understand.
+- **Judgment is a human responsibility, and it does not get delegated to the model.** A person is always accountable for what we ship.
+    - I am against "dark factory" software — fully autonomous pipelines that ship with no human in the loop. Not because the machines can't produce code, but because responsibility can't be automated.
+    - The machine can do the work. A person still has to own the call. Keeping a human on the hook for judgment is a feature, not friction.
 - Context is the input. The better we frame the problem, the better the output — for humans and models alike. (See also: providing context is a big part of what I do here.)
 - We stay honest about where AI helps and where it hurts. When it starts driving the wrong behavior, we stop and talk about it, same as with any tool or metric.
 
