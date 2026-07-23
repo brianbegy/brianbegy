@@ -189,9 +189,7 @@ A caveat that matters more every day: when a model can open ten PRs before lunch
 
 **Story points**
 
-<img src="img/points-dont-matter.png" alt="well, yeah"/>
-
-I don't quite agree with that. Sure, the dishonest can game it, but why would we work with dishonest people? Story points are useful for estimating and planning, and have some utility for measuring outcomes. As an output metric, they are of some use in knowing if the team is producing.
+Story points are a flawed metric — they're easy to game, hard to compare across teams, and a poor measure of output. But they're useful for what they're actually good at: expressing rough scope and risk before we start. As a shared shorthand for "how big and how uncertain is this," they help us plan. As a scoreboard, they don't tell us much.
 
 **PR throughput**
 
