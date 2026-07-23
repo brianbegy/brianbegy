@@ -64,7 +64,7 @@
 ## Testing
 - We own the quality of our code.
     - We test our own work *before* anyone else can find our mistakes.
-    - We think about testabliilty as a first-class concern.
+    - We think about testability as a first-class concern.
     - We test 100% of the code we think needs testing.  
     - We test 0% of the code we don't think needs testing.
     - We can depend on our tests.

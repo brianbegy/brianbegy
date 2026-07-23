@@ -9,13 +9,13 @@ _If you are the smartest person in the room, find a new room._
 ### Impact
 I'm here to deliver results.  
 
-I want to make solve problems and build solutions for customers.  
+I want to solve problems and build solutions for customers.  
 
 Every organization has interesting problems.  Let's find an important one and solve it.
 
 ### High transparency and alignment  
 
-[The "Netflix deck" says it best](https://www.slideshare.net/reed2001/culture-1798664).  
+[The "Netflix deck" says it best](https://igormroz.com/documents/netflix_culture.pdf).  
 
 I want leadership that sets the tone and context and allows experts to solve the business problems.  
 
@@ -38,7 +38,7 @@ A role with broad influence and responsibility.  Line management is not attracti
 
 #### Typescript/Javascript
 
-I have been using it at Kazoo/WorkTango and it solves some problems well, some problems poorly.  It is the fastest growing web language for a reason.
+I have used it extensively and it solves some problems well, some problems poorly.  It remains one of the most widely adopted web languages for a reason.
 
 #### Ruby
 
