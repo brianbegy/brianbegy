@@ -102,6 +102,10 @@ That means I:
     - Your input is valuable.
     - Do not hesitate to review code written by more experienced people.
     - Whoever — or whatever — wrote it, we review it and we own it.
+- We make small changes with low blast radius.
+    - A small change is easy to reason about, easy to review, easy to verify, and easy to revert. When it breaks, it breaks small.
+    - We would rather ship ten small, safe steps than one big-bang change.
+    - This matters more with AI in the loop: small, reviewable diffs are what keep human judgment tractable when code is cheap to generate. A giant machine-written PR is a liability; small ones we can actually reason about are an asset.
 
 **Testing**
 
