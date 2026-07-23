@@ -1,0 +1,19 @@
+{
+  "name": "brianbegy",
+  "version": "1.0.0",
+  "description": "Working with me — a how-to-work-with-me README.",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "*.{md,json,yml,yaml}": "prettier --write"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^15.2.10",
+    "prettier": "^3.4.2"
+  }
+}
