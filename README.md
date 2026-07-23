@@ -7,6 +7,7 @@ A way for you to understand why I am here and for us to measure success. This is
 - [My role](#my-role)
 - [My assumptions about you](#my-assumptions-about-you)
 - [Our team](#our-team)
+- [How we work with AI](#how-we-work-with-ai)
 - [Communication](#communication)
 - [One-on-ones](#one-on-ones)
 - [Feedback](#feedback)
@@ -95,11 +96,16 @@ That means I:
 **Code**
 
 - We work in the open.
-    - Everybody tries to write and commit code every day. Delivery is a muscle. We exercise it.
+    - Everybody ships something every day. Delivery is a muscle — the reps are now as much about directing and judging work as typing it. We exercise it either way.
     - Most people have a PR most days.
 - Everybody reviews code.
     - Your input is valuable.
     - Do not hesitate to review code written by more experienced people.
+    - Whoever — or whatever — wrote it, we review it and we own it.
+- We make small changes with low blast radius.
+    - A small change is easy to reason about, easy to review, easy to verify, and easy to revert. When it breaks, it breaks small.
+    - We would rather ship ten small, safe steps than one big-bang change.
+    - This matters more with AI in the loop: small, reviewable diffs are what keep human judgment tractable when code is cheap to generate. A giant machine-written PR is a liability; small ones we can actually reason about are an asset.
 
 **Testing**
 
@@ -123,6 +129,21 @@ That means I:
         - Do we need to find additional work?
 - We talk about any issues of common interest.
     - e.g. "Remember, I'm off all next week so if you need me, get me before 3."
+
+## How we work with AI
+
+- We use AI aggressively. It is the biggest lever we have, and refusing to use it well is a competitive disadvantage.
+- The frame for most of this is **centaur mode**: human plus machine, working as a team, beating either one alone. (The name comes from [centaur chess](https://en.wikipedia.org/wiki/Advanced_chess), where human-plus-engine pairs outplayed both grandmasters and engines on their own.)
+    - The model brings speed and breadth. The human brings judgment, context, and accountability. Neither half is optional.
+- The model writes a lot of the code. That does not change who owns it. We do.
+- Our job is shifting from producing code to directing, reviewing, and judging it.
+    - Taste and judgment are the scarce resources now, not typing speed.
+    - "The model wrote it" is never an excuse for shipping something we don't understand.
+- **Judgment is a human responsibility, and it does not get delegated to the model.** A person is always accountable for what we ship.
+    - I am against "dark factory" software — fully autonomous pipelines that ship with no human in the loop. Not because the machines can't produce code, but because responsibility can't be automated.
+    - The machine can do the work. A person still has to own the call. Keeping a human on the hook for judgment is a feature, not friction.
+- Context is the input. The better we frame the problem, the better the output — for humans and models alike. (See also: providing context is a big part of what I do here.)
+- We stay honest about where AI helps and where it hurts. When it starts driving the wrong behavior, we stop and talk about it, same as with any tool or metric.
 
 ## Communication
 
@@ -162,6 +183,8 @@ I like to count things.
 
 I don't want to be ruled by metrics, but they let us stay on top of the chaos. If our metrics ever seem to be driving the wrong behavior, we need to stop and talk about it. See [Feedback](#feedback).
 
+A caveat that matters more every day: when a model can open ten PRs before lunch, output volume gets cheap. Counting code produced increasingly measures the tool, not the person. So I weight the output metrics below lightly, and I care most about **judgment** — did we ship the right thing, did we catch the subtly-wrong thing, and what escaped to production.
+
 ### Output metrics
 
 **Story points**
@@ -172,7 +195,11 @@ I don't quite agree with that. Sure, the dishonest can game it, but why would we
 
 **PR throughput**
 
-PR throughput measures how many changes we each get to production. Sure, we can game this by making lots of small changes, but lots of small pull requests are actually what we want. We want to make small, safe changes and iterate.
+PR throughput measures how many changes we each get to production. Small, safe changes we iterate on are what we want. But this is the metric AI distorts most: raw PR count is now trivial to inflate, so I read it alongside what those PRs *did*, not as a scoreboard.
+
+**Escaped defects**
+
+The metric I trust most in a world of cheap code: what broke in production that we should have caught. It measures the thing that actually still depends on us — judgment and review — rather than how fast code got typed.
 
 **PR cycle time**
 
@@ -180,9 +207,9 @@ Stale PRs are hard to get merged because too much changes. PR cycle time tells u
 
 ### Input metrics
 
-**Coding days per week**
+**Delivery days per week**
 
-I am a strong believer that every developer should write and commit code every day. Averaging > 4.0 coding days per week seems like the right number to me:
+I am a strong believer that every developer should engage with the codebase and ship something every day — whether that is code they wrote, code they directed a model to write, or a review that made someone else's work better. The point is staying in the flow of delivery, not the keystrokes. Averaging > 4.0 delivery days per week seems like the right number to me:
 
 `52 * 5 - 10 days of holidays and 20 days PTO = 4.42 days per week.`
 
