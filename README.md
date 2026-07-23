@@ -30,19 +30,19 @@ That means I:
 ## My assumptions about you
 
 - You are good at your job.
-    - If you weren't, you wouldn't be here.
-    - I will still question you. When I do, it is because:
-        - I'm trying to learn more about what you know and I don't.
-        - I'm trying to be a sounding board and make sure you do your best work.
+  - If you weren't, you wouldn't be here.
+  - I will still question you. When I do, it is because:
+    - I'm trying to learn more about what you know and I don't.
+    - I'm trying to be a sounding board and make sure you do your best work.
 - You have more detailed knowledge than I do of what you are doing.
-    - I have more context than you do. (Context is part of what I do here.)
+  - I have more context than you do. (Context is part of what I do here.)
 - You will tell me if you are having trouble doing your job.
-    - One of my main responsibilities is setting you up for success, not failure.
-    - You will know before I do if you are not set up for success, so say something.
+  - One of my main responsibilities is setting you up for success, not failure.
+  - You will know before I do if you are not set up for success, so say something.
 - You feel safe debating with me.
-    - The best ideas are those that have been viewed from multiple angles and been the subject of debate and discussion.
-        - Sometimes I will play devil's advocate for this purpose alone.
-        - Sometimes I'm just being dense.
+  - The best ideas are those that have been viewed from multiple angles and been the subject of debate and discussion.
+    - Sometimes I will play devil's advocate for this purpose alone.
+    - Sometimes I'm just being dense.
 
 ## Our team
 
@@ -59,36 +59,36 @@ That means I:
 ### Vision
 
 - We are all contributing at a high level.
-    - We deliver features that bring joy to our customers or at least remove sources of pain and frustration.
-    - To our stakeholders, we are big damn heroes.
+  - We deliver features that bring joy to our customers or at least remove sources of pain and frustration.
+  - To our stakeholders, we are big damn heroes.
 - We take control of, and responsibility for, our own destiny.
-    - We identify challenges and opportunities and come up with solutions.
-    - If something is beyond our control, we look for ways to get it under our control or get help.
+  - We identify challenges and opportunities and come up with solutions.
+  - If something is beyond our control, we look for ways to get it under our control or get help.
 - We help each other.
 - We hold each other accountable.
 - We can expect excellence in ourselves and each other.
 - We assume positive intent.
 - We always ask "why?" and especially "Why can't we just make it be better?"
 - We constantly learn and adapt.
-    - If something isn't working, we change it.
+  - If something isn't working, we change it.
 - All of this is both fun and sustainable.
 
 ### Attendance
 
 - We work a reasonable number of hours.
-    - We occasionally work overtime during crunch periods.
-    - But we understand that extended overtime...
-        - Makes us unhappy.
-        - Actually reduces productivity.
+  - We occasionally work overtime during crunch periods.
+  - But we understand that extended overtime...
+    - Makes us unhappy.
+    - Actually reduces productivity.
 - We respect our team members by being available, being on time, and giving people time to adjust.
-    - We try to give warning when we won't be in.
-    - Life happens: people get sick, child care falls through, furnaces give out, so we are flexible.
-        - But we need to give our team members warning.
-        - If we will take a day, we give notice as soon as we know. We announce it and put it on the vacation calendar.
-    - When one person is remote for a team meeting, everybody is remote for that meeting.
+  - We try to give warning when we won't be in.
+  - Life happens: people get sick, child care falls through, furnaces give out, so we are flexible.
+    - But we need to give our team members warning.
+    - If we will take a day, we give notice as soon as we know. We announce it and put it on the vacation calendar.
+  - When one person is remote for a team meeting, everybody is remote for that meeting.
 - When we do get sick...
-    - We take care of ourselves by resting when we cannot or should not work.
-    - We take care of our team by working from home when we are contagious.
+  - We take care of ourselves by resting when we cannot or should not work.
+  - We take care of our team by working from home when we are contagious.
 - Nobody [goes dark](https://blog.codinghorror.com/dont-go-dark/) for an extended period.
 
 ### Practices
@@ -96,25 +96,25 @@ That means I:
 **Code**
 
 - We work in the open.
-    - Everybody ships something every day. Delivery is a muscle — the reps are now as much about directing and judging work as typing it. We exercise it either way.
-    - Most people have a PR most days.
+  - Everybody ships something every day. Delivery is a muscle — the reps are now as much about directing and judging work as typing it. We exercise it either way.
+  - Most people have a PR most days.
 - Everybody reviews code.
-    - Your input is valuable.
-    - Do not hesitate to review code written by more experienced people.
-    - Whoever — or whatever — wrote it, we review it and we own it.
+  - Your input is valuable.
+  - Do not hesitate to review code written by more experienced people.
+  - Whoever — or whatever — wrote it, we review it and we own it.
 - We make small changes with low blast radius.
-    - A small change is easy to reason about, easy to review, easy to verify, and easy to revert. When it breaks, it breaks small.
-    - We would rather ship ten small, safe steps than one big-bang change.
-    - This matters more with AI in the loop: small, reviewable diffs are what keep human judgment tractable when code is cheap to generate. A giant machine-written PR is a liability; small ones we can actually reason about are an asset.
+  - A small change is easy to reason about, easy to review, easy to verify, and easy to revert. When it breaks, it breaks small.
+  - We would rather ship ten small, safe steps than one big-bang change.
+  - This matters more with AI in the loop: small, reviewable diffs are what keep human judgment tractable when code is cheap to generate. A giant machine-written PR is a liability; small ones we can actually reason about are an asset.
 
 **Testing**
 
 - We own the quality of our code.
-    - We test our own work *before* anyone else can find our mistakes.
-    - We think about testability as a first-class concern.
-    - We test 100% of the code we think needs testing.
-    - We test 0% of the code we don't think needs testing.
-    - We can depend on our tests.
+  - We test our own work _before_ anyone else can find our mistakes.
+  - We think about testability as a first-class concern.
+  - We test 100% of the code we think needs testing.
+  - We test 0% of the code we don't think needs testing.
+  - We can depend on our tests.
 
 **Standup**
 
@@ -123,25 +123,25 @@ That means I:
 - We talk about blocking issues.
 - We talk about discovered tasks or complications.
 - We review our collective situation.
-    - Do we have open PRs that need review?
-    - Are we likely to exceed or miss sprint commitments?
-        - Do we need to communicate to our stakeholders?
-        - Do we need to find additional work?
+  - Do we have open PRs that need review?
+  - Are we likely to exceed or miss sprint commitments?
+    - Do we need to communicate to our stakeholders?
+    - Do we need to find additional work?
 - We talk about any issues of common interest.
-    - e.g. "Remember, I'm off all next week so if you need me, get me before 3."
+  - e.g. "Remember, I'm off all next week so if you need me, get me before 3."
 
 ## How we work with AI
 
 - We use AI aggressively. It is the biggest lever we have, and refusing to use it well is a competitive disadvantage.
 - The frame for most of this is **centaur mode**: human plus machine, working as a team, beating either one alone. (The name comes from [centaur chess](https://en.wikipedia.org/wiki/Advanced_chess), where human-plus-engine pairs outplayed both grandmasters and engines on their own.)
-    - The model brings speed and breadth. The human brings judgment, context, and accountability. Neither half is optional.
+  - The model brings speed and breadth. The human brings judgment, context, and accountability. Neither half is optional.
 - The model writes a lot of the code. That does not change who owns it. We do.
 - Our job is shifting from producing code to directing, reviewing, and judging it.
-    - Taste and judgment are the scarce resources now, not typing speed.
-    - "The model wrote it" is never an excuse for shipping something we don't understand.
+  - Taste and judgment are the scarce resources now, not typing speed.
+  - "The model wrote it" is never an excuse for shipping something we don't understand.
 - **Judgment is a human responsibility, and it does not get delegated to the model.** A person is always accountable for what we ship.
-    - I am against "dark factory" software — fully autonomous pipelines that ship with no human in the loop. Not because the machines can't produce code, but because responsibility can't be automated.
-    - The machine can do the work. A person still has to own the call. Keeping a human on the hook for judgment is a feature, not friction.
+  - I am against "dark factory" software — fully autonomous pipelines that ship with no human in the loop. Not because the machines can't produce code, but because responsibility can't be automated.
+  - The machine can do the work. A person still has to own the call. Keeping a human on the hook for judgment is a feature, not friction.
 - Context is the input. The better we frame the problem, the better the output — for humans and models alike. (See also: providing context is a big part of what I do here.)
 - We stay honest about where AI helps and where it hurts. When it starts driving the wrong behavior, we stop and talk about it, same as with any tool or metric.
 
@@ -152,9 +152,9 @@ That means I:
 - Slack — you should expect to get an answer right away. I will do my best.
 - If it ever feels like we are not communicating, grab me and let's hash it out.
 - I feel very strongly that teams need to over-communicate their progress.
-    - Transparency builds trust.
-    - We should be open and transparent about our successes and our failures.
-    - Typically, this takes the form of a weekly status email going to all stakeholders.
+  - Transparency builds trust.
+  - We should be open and transparent about our successes and our failures.
+  - Typically, this takes the form of a weekly status email going to all stakeholders.
 
 ## One-on-ones
 
@@ -167,9 +167,9 @@ That means I:
 
 - Honest, compassionate feedback is one of the most important tools we have.
 - This needs to go both ways.
-    - I'm going to make mistakes.
-        - I expect you to tell me when that happens.
-        - Yeah, it might be hard, but I'm counting on you.
+  - I'm going to make mistakes.
+    - I expect you to tell me when that happens.
+    - Yeah, it might be hard, but I'm counting on you.
 
 ## Metrics
 
@@ -195,7 +195,7 @@ I don't quite agree with that. Sure, the dishonest can game it, but why would we
 
 **PR throughput**
 
-PR throughput measures how many changes we each get to production. Small, safe changes we iterate on are what we want. But this is the metric AI distorts most: raw PR count is now trivial to inflate, so I read it alongside what those PRs *did*, not as a scoreboard.
+PR throughput measures how many changes we each get to production. Small, safe changes we iterate on are what we want. But this is the metric AI distorts most: raw PR count is now trivial to inflate, so I read it alongside what those PRs _did_, not as a scoreboard.
 
 **Escaped defects**
 
@@ -217,8 +217,8 @@ I am a strong believer that every developer should engage with the codebase and 
 
 - We can always do an informal "help me talk through an idea" without a formal agenda. (Although, in reality the agenda is "Let's talk through connection pooling" or whatever.)
 - Any meeting over 15 minutes needs to have an agenda.
-    - If I call a meeting > 15 minutes with no agenda, call me out.
-    - If possible, we should have a common set of notes for meetings so we know who agreed to what.
-    - Meetings produce artifacts: notes or even screenshots of whiteboards.
+  - If I call a meeting > 15 minutes with no agenda, call me out.
+  - If possible, we should have a common set of notes for meetings so we know who agreed to what.
+  - Meetings produce artifacts: notes or even screenshots of whiteboards.
 - Story grooming is important to get everybody on the same page.
 - Retrospectives are important to help us improve.
