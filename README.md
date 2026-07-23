@@ -129,6 +129,8 @@ That means I:
 ## How we work with AI
 
 - We use AI aggressively. It is the biggest lever we have, and refusing to use it well is a competitive disadvantage.
+- The frame for most of this is **centaur mode**: human plus machine, working as a team, beating either one alone. (The name comes from centaur chess, where human-plus-engine pairs outplayed both grandmasters and engines on their own.)
+    - The model brings speed and breadth. The human brings judgment, context, and accountability. Neither half is optional.
 - The model writes a lot of the code. That does not change who owns it. We do.
 - Our job is shifting from producing code to directing, reviewing, and judging it.
     - Taste and judgment are the scarce resources now, not typing speed.
