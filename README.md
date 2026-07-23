@@ -182,9 +182,8 @@ That means I:
 
 ## Metrics
 
-I like to count things.
+I like to count things. Some of what I count is the health of the product and the system we run:
 
-- Story points help us understand our capacity and our velocity.
 - Bug counts tell us if we have a quality problem.
 - Production support tickets tell us where we need to improve the system.
 - Performance metrics ensure our products work the way we need them to.
@@ -192,7 +191,7 @@ I like to count things.
 
 I don't want to be ruled by metrics, but they let us stay on top of the chaos. If our metrics ever seem to be driving the wrong behavior, we need to stop and talk about it. See [Feedback](#feedback).
 
-A caveat that matters more every day: when a model can open ten PRs before lunch, output volume gets cheap. Counting code produced increasingly measures the tool, not the person. So I weight the output metrics below lightly, and I care most about **judgment** — did we ship the right thing, did we catch the subtly-wrong thing, and what escaped to production.
+The rest are about measuring _us_ — how we plan and what we deliver — and this is where I tread carefully. A caveat that matters more every day: when a model can open ten PRs before lunch, output volume gets cheap. Counting code produced increasingly measures the tool, not the person. So I weight the output metrics below lightly, and I care most about **judgment** — did we ship the right thing, did we catch the subtly-wrong thing, and what escaped to production.
 
 ### Output metrics
 
