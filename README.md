@@ -1,5 +1,7 @@
 # Working with me
 
+📄 **[My résumé](https://github.com/brianbegy/resume/blob/main/brianbegy.md)**
+
 A way for you to understand why I am here and for us to measure success. This is heavily inspired by [Rands](http://randsinrepose.com/archives/how-to-rands/) and others.
 
 ## Contents
