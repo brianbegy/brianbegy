@@ -160,8 +160,6 @@ That means I:
   - A PR is the ideal home for a lot of this — the change and the reasoning for it, together, reviewable, and permanent.
 - Match the bandwidth to the problem. For anything ambiguous, contentious, or emotional, talk it out live — a call or a huddle beats a wall of text. In person or over video, same principle: the harder the conversation, the higher the bandwidth should be.
 - Whatever we decide live, we write down. A quick recap in the channel or the doc means the decision survives the meeting and reaches whoever wasn't in it.
-- Emails — I will reply in < 24 hours.
-- Slack — you should expect to get an answer right away. I will do my best.
 - If it ever feels like we are not communicating, grab me and let's hash it out.
 - I feel very strongly that teams need to over-communicate their progress.
   - Transparency builds trust.
