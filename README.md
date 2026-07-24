@@ -224,13 +224,11 @@ I am a strong believer that every developer should engage with the codebase and 
 
 ## Meetings
 
-- We can always do an informal "help me talk through an idea" without a formal agenda. (Although, in reality the agenda is "Let's talk through connection pooling" or whatever.)
 - Any meeting over 15 minutes needs to have an agenda.
   - If I call a meeting > 15 minutes with no agenda, call me out.
-  - If possible, we should have a common set of notes for meetings so we know who agreed to what.
-  - Meetings produce durable artifacts: notes, a shared doc, or a screenshot of whatever we drew — physical or virtual whiteboard.
+- We can always do an informal "help me talk through an idea" without a formal agenda. (Although, in reality the agenda is "Let's talk through connection pooling" or whatever.)
+- If possible, we should have a common set of notes for meetings so we know who agreed to what.
+- Meetings produce durable artifacts: notes, a shared doc, or a screenshot of whatever we drew — physical or virtual whiteboard.
   - AI note takers are welcome — they capture more than we can while staying present in the conversation. But the transcript is a draft, not the record. A human reads it, corrects what the model misheard or misattributed, and owns the version we keep. Same rule as everywhere else: the machine does the work, a person owns the judgment.
-- Story grooming is important to get everybody on the same page.
-- Retrospectives are important to help us improve.
 
 </details>
